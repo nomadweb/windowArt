@@ -6,10 +6,10 @@ Contract- [smart.py](https://smartpy.io/ide?code=eJzVWVtv3LgVfp9fwSoILKGKPPba2db
 
 ## A Truly Decentralized NFT Marketplace on Tezos
 Live - https://windows-art.netlify.app/
-Live - https://000abd22850okrn5l48u9l1lfpp506tfvunhgj22dgl2k5hj1tdmsgo.siasky.net/
 
 ![screenshot](https://imgur.com/60cById.png)
 
+Live WEB3 - https://000abd22850okrn5l48u9l1lfpp506tfvunhgj22dgl2k5hj1tdmsgo.siasky.net/
 
 ## Getting Started
 1. Clone your new repository:

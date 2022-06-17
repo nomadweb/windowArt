@@ -58,7 +58,7 @@ const Header = ({
     return (
        
         <div className="ui menu">
-            <div className="item ui header">Tez Bytes</div>
+            <div className="item ui header">🪟 windows art</div>
             <div className="item">
             <Link to="/">Home</Link>
             </div>
